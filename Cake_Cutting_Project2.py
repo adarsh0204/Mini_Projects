@@ -1,6 +1,7 @@
 #Project 21:
 #Your task is to find if it is possible to cut the cake in the below mentioned ways for a given value N.
 '''
+
 Given an integer N and cake which can be cut into pieces, each cut should be straight line going from the
 center of the cake to its border. Also, the angle between any two cuts must be a positive integer. Two pieces are equal
 if their appropriate angles are equal.
